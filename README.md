@@ -22,7 +22,6 @@ transaction management, and user authentication.
 * JDBC
 * MySQL
 * OOPs
-* Maven
 * Git & GitHub
 
 📚 Concepts Covered
@@ -46,7 +45,6 @@ is committed; otherwise, rollback is performed to prevent partial updates and ma
 ## 🎯 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
-
 * Java Backend Development
 * JDBC and MySQL Integration
 * SQL Query Execution
